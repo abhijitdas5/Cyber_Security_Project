@@ -1,0 +1,5 @@
+intitle: "index of" .env
+inurl:admin login
+filetype:sql "phpMyAdmin SQL Dump"
+intitle: "webcamXP 5"
+inurl:backup filetype:bak
